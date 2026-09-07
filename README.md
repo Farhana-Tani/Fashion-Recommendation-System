@@ -168,7 +168,7 @@ Fashion-Recommender-System/
 └── README.md
 ```
 
-The repository contains the Streamlit application, feature-generation script, pretrained-model pipeline, stored embeddings, and supporting files. citeturn1view0
+The repository contains the Streamlit application, feature-generation script, pretrained-model pipeline, stored embeddings, and supporting files. 
 
 ---
 
